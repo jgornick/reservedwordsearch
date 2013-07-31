@@ -1,4 +1,7 @@
 language: ruby
 rvm:
-    - 1.9.3
+- 1.9.3
 script: bash build.sh
+env:
+  global:
+    secure: mL+AbeTUM1wc5SO7NMO1HVV3+plxsHW4i53LRVAgpnYYMvJgInkAcbzngDscrFXUiecY/iTj/SszITmCWvRFFnhIKYTmnB1MekJTB9EdsBF8BA6qu/guSw1yrk2Mln3q6t0/fdwK0pxpl5CxYRzBMdlZVfRAVfyy1IWP+pVI5uE=
