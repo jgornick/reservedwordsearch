@@ -14,11 +14,15 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
   git config --global user.email "joe@joegornick.com"
   git config --global user.name "Joe Gornick"
 
+  git remote rename origin readonly
+  git remote add origin https://$(GH_TOKEN)@github.com/jgornick/reservedwordsearch
+  git remote fetch origin
+
+  git checkout site
+
   bundle exec jekyll build || error_exit "Error generating site";
 
-  # Fetch all other branches
-  git fetch origin 'refs/heads/*:refs/remotes/origin/*' || error_exit "Error fetching remote branches";
-  git checkout -b gh-pages origin/gh-pages || error_exit "Error checking out gh-pages branch";
+  git checkout gh-pages || error_exit "Error checking out gh-pages branch";
   git clean -fd
   cp -Rf _site/* . || error_exit "Error copying _site contents to gh-pages";
   git add .
