@@ -14,7 +14,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
   git config --global user.email "joe@joegornick.com"
   git config --global user.name "Joe Gornick"
 
-  bundle jekyll build || error_exit "Error generating site";
+  bundle exec jekyll build || error_exit "Error generating site";
 
   # Fetch all other branches
   git fetch origin 'refs/heads/*:refs/remotes/origin/*' || error_exit "Error fetching remote branches";
