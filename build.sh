@@ -15,7 +15,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
   git config --global user.name "Joe Gornick"
 
   git remote rename origin readonly
-  git remote add origin https://$(GH_TOKEN)@github.com/jgornick/reservedwordsearch
+  git remote add origin https://$GH_TOKEN@github.com/jgornick/reservedwordsearch
   git remote fetch origin
 
   git checkout site
