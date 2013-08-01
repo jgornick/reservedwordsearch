@@ -14,12 +14,12 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
   git config --global user.email "joe@joegornick.com"
   git config --global user.name "Joe Gornick"
 
-  bundle jekyll build 2> /dev/null || error_exit "Error generating site";
+  bundle jekyll build || error_exit "Error generating site";
 
   # Fetch all other branches
-  git fetch origin 'refs/heads/*:refs/remotes/origin/*' 2> /dev/null || error_exit "Error fetching remote branches";
-  git checkout -b gh-pages origin/gh-pages 2> /dev/null || error_exit "Error checking out gh-pages branch";
-  cp -Rf _site/* . 2> /dev/null || error_exit "Error copying _site contents to gh-pages";
+  git fetch origin 'refs/heads/*:refs/remotes/origin/*' || error_exit "Error fetching remote branches";
+  git checkout -b gh-pages origin/gh-pages || error_exit "Error checking out gh-pages branch";
+  cp -Rf _site/* . || error_exit "Error copying _site contents to gh-pages";
   git add .
   git add -u
   git commit -m "Regenerate"
