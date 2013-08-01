@@ -16,7 +16,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
 
   git remote rename origin readonly
   git remote add origin https://$GH_TOKEN@github.com/jgornick/reservedwordsearch
-  git remote fetch origin
+  git fetch origin
 
   git checkout site
 
