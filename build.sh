@@ -27,7 +27,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
   cp -Rf _site/* . || error_exit "Error copying _site contents to gh-pages";
   git add .
   git add -u
-  git commit -m "Regenerate"
+  git commit -m "Regenerate from ${TRAVIS_BRANCH}@${TRAVIS_COMMIT}"
+  git push origin gh-pages
 fi
 
 end=$(date +%s)
