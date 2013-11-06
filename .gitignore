@@ -1,4 +1,5 @@
 _site
 *sublime*
 vendor
+node_modules
 .bundle

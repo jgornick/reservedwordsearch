@@ -1,0 +1,8 @@
+{
+    "name" : "reservedwordsearchsite",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "optimist" : "0.6.x",
+        "lodash": "2.2.x"
+    }
+}

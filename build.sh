@@ -9,23 +9,18 @@ function error_exit
   exit 1
 }
 
-if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/reservedwordsearch" ] && [ "$TRAVIS_BRANCH" == "site" ]; then
+if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git config --global user.email "joe@joegornick.com"
   git config --global user.name "Joe Gornick"
 
-  git status
-
   git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/master
-
-  ls /tmp/rws/master
-
   git clone --depth=1 --branch=site https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/site
+  git clone --depth=1 --branch=gh-pages https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/gh-pages
 
-  ls /tmp/rws/site
+  cd /tmp/rws/site
 
-  git clone --depth=1 --branch=site https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/gh-pages
-
-  ls /tmp/rws/gh-pages
+  npm install
+  node generate-client-schema.js --source /tmp/rws/master --destination /tmp/rws/site/db/rws.json
 
   # git remote rename origin readonly
   # git remote add origin https://$GH_TOKEN@github.com/jgornick/reservedwordsearch
