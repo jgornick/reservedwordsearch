@@ -1,0 +1,228 @@
+{
+    "platform": "C++",
+    "version": null,
+    "words": [
+        {
+            "word": "and"
+        },
+        {
+            "word": "and_eq"
+        },
+        {
+            "word": "asm"
+        },
+        {
+            "word": "auto"
+        },
+        {
+            "word": "bitand"
+        },
+        {
+            "word": "bitor"
+        },
+        {
+            "word": "bool"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "char"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "compl"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "const_cast"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delete"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "double"
+        },
+        {
+            "word": "dynamic_cast"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum"
+        },
+        {
+            "word": "explicit"
+        },
+        {
+            "word": "export"
+        },
+        {
+            "word": "extern"
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "float"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "friend"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "inline"
+        },
+        {
+            "word": "int"
+        },
+        {
+            "word": "long"
+        },
+        {
+            "word": "mutable"
+        },
+        {
+            "word": "namespace"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "not"
+        },
+        {
+            "word": "not_eq"
+        },
+        {
+            "word": "operator"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "or_eq"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "register"
+        },
+        {
+            "word": "reinterpret_cast"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "short"
+        },
+        {
+            "word": "signed"
+        },
+        {
+            "word": "sizeof"
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "static_cast"
+        },
+        {
+            "word": "struct"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "template"
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "true"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typedef"
+        },
+        {
+            "word": "typeid"
+        },
+        {
+            "word": "typename"
+        },
+        {
+            "word": "union"
+        },
+        {
+            "word": "unsigned"
+        },
+        {
+            "word": "using"
+        },
+        {
+            "word": "virtual"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "volatile"
+        },
+        {
+            "word": "wchar_t"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "xor"
+        },
+        {
+            "word": "xor_eq"
+        }
+    ]
+}

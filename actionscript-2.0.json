@@ -1,0 +1,318 @@
+{
+    "platform": "ActionScript",
+    "version": "2.0",
+    "words": [
+        {
+            "word": "Boolean",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "Break"
+        },
+        {
+            "word": "abstract",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "add"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "as",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "bytes",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "char",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "debugger",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delete"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "double",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "dynamic"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "eq"
+        },
+        {
+            "word": "export",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "extends"
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "final",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "float",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "ge"
+        },
+        {
+            "word": "get"
+        },
+        {
+            "word": "goto",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "gt"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "ifFrameLoaded"
+        },
+        {
+            "word": "implements"
+        },
+        {
+            "word": "import"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "instanceof"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "intrinsic"
+        },
+        {
+            "word": "is",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "it"
+        },
+        {
+            "word": "le"
+        },
+        {
+            "word": "long",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "namespace",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "native",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "ne"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "not"
+        },
+        {
+            "word": "null"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "onClipEvent"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "package",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "protected",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "set"
+        },
+        {
+            "word": "short",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "super"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "synchronized",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "tellTarget"
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "throws",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "transient",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typeof"
+        },
+        {
+            "word": "use",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "volatile",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "with"
+        }
+    ]
+}

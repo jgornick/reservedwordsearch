@@ -1,0 +1,300 @@
+{
+    "platform": "Delphi",
+    "version": null,
+    "words": [
+        {
+            "word": "absolute"
+        },
+        {
+            "word": "abstract"
+        },
+        {
+            "word": "alias"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "array"
+        },
+        {
+            "word": "as"
+        },
+        {
+            "word": "asm"
+        },
+        {
+            "word": "assembler"
+        },
+        {
+            "word": "begin"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "cdecl"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "constructor"
+        },
+        {
+            "word": "cppdecl"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "destructor"
+        },
+        {
+            "word": "div"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "downto"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "end"
+        },
+        {
+            "word": "except"
+        },
+        {
+            "word": "export"
+        },
+        {
+            "word": "exports"
+        },
+        {
+            "word": "external"
+        },
+        {
+            "word": "far"
+        },
+        {
+            "word": "far16"
+        },
+        {
+            "word": "file"
+        },
+        {
+            "word": "finalization"
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "forward"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implementation"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "index"
+        },
+        {
+            "word": "inherited"
+        },
+        {
+            "word": "initialization"
+        },
+        {
+            "word": "inline"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "label"
+        },
+        {
+            "word": "library"
+        },
+        {
+            "word": "local"
+        },
+        {
+            "word": "mod"
+        },
+        {
+            "word": "name"
+        },
+        {
+            "word": "near"
+        },
+        {
+            "word": "nil"
+        },
+        {
+            "word": "nostackframe"
+        },
+        {
+            "word": "not"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "oldfpccall"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "operator"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "out"
+        },
+        {
+            "word": "override"
+        },
+        {
+            "word": "packed"
+        },
+        {
+            "word": "pascal"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "procedure"
+        },
+        {
+            "word": "program"
+        },
+        {
+            "word": "property"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "published"
+        },
+        {
+            "word": "raise"
+        },
+        {
+            "word": "read"
+        },
+        {
+            "word": "record"
+        },
+        {
+            "word": "register"
+        },
+        {
+            "word": "reintroduce"
+        },
+        {
+            "word": "repeat"
+        },
+        {
+            "word": "safecall"
+        },
+        {
+            "word": "self"
+        },
+        {
+            "word": "set"
+        },
+        {
+            "word": "shl"
+        },
+        {
+            "word": "shr"
+        },
+        {
+            "word": "softfloat"
+        },
+        {
+            "word": "stdcall"
+        },
+        {
+            "word": "string"
+        },
+        {
+            "word": "then"
+        },
+        {
+            "word": "threadvar"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "type"
+        },
+        {
+            "word": "unit"
+        },
+        {
+            "word": "until"
+        },
+        {
+            "word": "uses"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "virtual"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "with"
+        },
+        {
+            "word": "write"
+        },
+        {
+            "word": "xor"
+        }
+    ]
+}

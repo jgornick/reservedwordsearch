@@ -1,0 +1,93 @@
+{
+    "platform": "Python",
+    "version": "2.3.5",
+    "words": [
+        {
+            "word": "and"
+        },
+        {
+            "word": "assert"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "def"
+        },
+        {
+            "word": "del"
+        },
+        {
+            "word": "elif"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "except"
+        },
+        {
+            "word": "exec"
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "from"
+        },
+        {
+            "word": "global"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "import"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "lambda"
+        },
+        {
+            "word": "not"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "pass"
+        },
+        {
+            "word": "print"
+        },
+        {
+            "word": "raise"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "yield"
+        }
+    ]
+}

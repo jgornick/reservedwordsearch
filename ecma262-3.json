@@ -1,0 +1,276 @@
+{
+    "platform": "ECMA-262",
+    "version": "3",
+    "words": [
+        {
+            "word": "abstract",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "boolean",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "byte",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "char",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "class",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "const",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "debugger",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delete"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "double",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "export",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "extends",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "final",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "float",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "goto",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implements",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "import",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "instanceof"
+        },
+        {
+            "word": "int",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "interface",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "long",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "native",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "null"
+        },
+        {
+            "word": "package",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "private",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "protected",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "public",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "short",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "static",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "super",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "synchronized",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "throws",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "transient",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "true"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typeof"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "volatile",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "with"
+        }
+    ]
+}

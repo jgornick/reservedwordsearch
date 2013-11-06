@@ -1,0 +1,267 @@
+{
+    "platform": "ECMA-334",
+    "version": "4",
+    "words": [
+        {
+            "word": "abstract"
+        },
+        {
+            "word": "add"
+        },
+        {
+            "word": "alias"
+        },
+        {
+            "word": "as"
+        },
+        {
+            "word": "base"
+        },
+        {
+            "word": "bool"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "byte"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "char"
+        },
+        {
+            "word": "checked"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "decimal"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delegate"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "double"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum"
+        },
+        {
+            "word": "event"
+        },
+        {
+            "word": "explicit"
+        },
+        {
+            "word": "extern"
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "fixed"
+        },
+        {
+            "word": "float"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "foreach"
+        },
+        {
+            "word": "get"
+        },
+        {
+            "word": "global"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implicit"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "int"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "internal"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "lock"
+        },
+        {
+            "word": "long"
+        },
+        {
+            "word": "namespace"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "null"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "operator"
+        },
+        {
+            "word": "out"
+        },
+        {
+            "word": "override"
+        },
+        {
+            "word": "params"
+        },
+        {
+            "word": "partial"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "readonly"
+        },
+        {
+            "word": "ref"
+        },
+        {
+            "word": "remove"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "sbyte"
+        },
+        {
+            "word": "sealed"
+        },
+        {
+            "word": "set"
+        },
+        {
+            "word": "short"
+        },
+        {
+            "word": "sizeof"
+        },
+        {
+            "word": "stackalloc"
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "string"
+        },
+        {
+            "word": "struct"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "true"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typeof"
+        },
+        {
+            "word": "uint"
+        },
+        {
+            "word": "ulong"
+        },
+        {
+            "word": "unchecked"
+        },
+        {
+            "word": "unsafe"
+        },
+        {
+            "word": "ushort"
+        },
+        {
+            "word": "using"
+        },
+        {
+            "word": "value"
+        },
+        {
+            "word": "virtual"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "volatile"
+        },
+        {
+            "word": "where"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "yield"
+        }
+    ]
+}

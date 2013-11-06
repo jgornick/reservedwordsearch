@@ -1,0 +1,516 @@
+{
+    "platform": "MySQL",
+    "version": "4.0",
+    "words": [
+        {
+            "word": "ADD"
+        },
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "ANALYZE"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "ASC"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "BIGINT"
+        },
+        {
+            "word": "BINARY"
+        },
+        {
+            "word": "BLOB"
+        },
+        {
+            "word": "BOTH"
+        },
+        {
+            "word": "BY"
+        },
+        {
+            "word": "CASCADE"
+        },
+        {
+            "word": "CASE"
+        },
+        {
+            "word": "CHANGE"
+        },
+        {
+            "word": "CHAR"
+        },
+        {
+            "word": "CHARACTER"
+        },
+        {
+            "word": "CHECK"
+        },
+        {
+            "word": "COLUMN"
+        },
+        {
+            "word": "COLUMNS"
+        },
+        {
+            "word": "CONSTRAINT"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CROSS"
+        },
+        {
+            "word": "CURRENT_DATE"
+        },
+        {
+            "word": "CURRENT_TIME"
+        },
+        {
+            "word": "CURRENT_TIMESTAMP"
+        },
+        {
+            "word": "DATABASE"
+        },
+        {
+            "word": "DATABASES"
+        },
+        {
+            "word": "DAY_HOUR"
+        },
+        {
+            "word": "DAY_MINUTE"
+        },
+        {
+            "word": "DAY_SECOND"
+        },
+        {
+            "word": "DEC"
+        },
+        {
+            "word": "DECIMAL"
+        },
+        {
+            "word": "DEFAULT"
+        },
+        {
+            "word": "DELAYED"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DESC"
+        },
+        {
+            "word": "DESCRIBE"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DISTINCTROW"
+        },
+        {
+            "word": "DOUBLE"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "ELSE"
+        },
+        {
+            "word": "ENCLOSED"
+        },
+        {
+            "word": "ESCAPED"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "EXPLAIN"
+        },
+        {
+            "word": "FIELDS"
+        },
+        {
+            "word": "FLOAT"
+        },
+        {
+            "word": "FLOAT4"
+        },
+        {
+            "word": "FLOAT8"
+        },
+        {
+            "word": "FOR"
+        },
+        {
+            "word": "FORCE"
+        },
+        {
+            "word": "FOREIGN"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "FULLTEXT"
+        },
+        {
+            "word": "GRANT"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "HIGH_PRIORITY"
+        },
+        {
+            "word": "HOUR_MINUTE"
+        },
+        {
+            "word": "HOUR_SECOND"
+        },
+        {
+            "word": "IF"
+        },
+        {
+            "word": "IGNORE"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INDEX"
+        },
+        {
+            "word": "INFILE"
+        },
+        {
+            "word": "INNER"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INT"
+        },
+        {
+            "word": "INT1"
+        },
+        {
+            "word": "INT2"
+        },
+        {
+            "word": "INT3"
+        },
+        {
+            "word": "INT4"
+        },
+        {
+            "word": "INT8"
+        },
+        {
+            "word": "INTEGER"
+        },
+        {
+            "word": "INTERVAL"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "JOIN"
+        },
+        {
+            "word": "KEY"
+        },
+        {
+            "word": "KEYS"
+        },
+        {
+            "word": "KILL"
+        },
+        {
+            "word": "LEADING"
+        },
+        {
+            "word": "LEFT"
+        },
+        {
+            "word": "LIKE"
+        },
+        {
+            "word": "LIMIT"
+        },
+        {
+            "word": "LINES"
+        },
+        {
+            "word": "LOAD"
+        },
+        {
+            "word": "LOCALTIME"
+        },
+        {
+            "word": "LOCALTIMESTAMP"
+        },
+        {
+            "word": "LOCK"
+        },
+        {
+            "word": "LONG"
+        },
+        {
+            "word": "LONGBLOB"
+        },
+        {
+            "word": "LONGTEXT"
+        },
+        {
+            "word": "LOW_PRIORITY"
+        },
+        {
+            "word": "MATCH"
+        },
+        {
+            "word": "MEDIUMBLOB"
+        },
+        {
+            "word": "MEDIUMINT"
+        },
+        {
+            "word": "MEDIUMTEXT"
+        },
+        {
+            "word": "MIDDLEINT"
+        },
+        {
+            "word": "MINUTE_SECOND"
+        },
+        {
+            "word": "NATURAL"
+        },
+        {
+            "word": "NOT"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "NUMERIC"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "OPTIMIZE"
+        },
+        {
+            "word": "OPTION"
+        },
+        {
+            "word": "OPTIONALLY"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "OUTER"
+        },
+        {
+            "word": "OUTFILE"
+        },
+        {
+            "word": "PRECISION"
+        },
+        {
+            "word": "PRIMARY"
+        },
+        {
+            "word": "PRIVILEGES"
+        },
+        {
+            "word": "PROCEDURE"
+        },
+        {
+            "word": "PURGE"
+        },
+        {
+            "word": "READ"
+        },
+        {
+            "word": "REAL"
+        },
+        {
+            "word": "REFERENCES"
+        },
+        {
+            "word": "REGEXP"
+        },
+        {
+            "word": "RENAME"
+        },
+        {
+            "word": "REPLACE"
+        },
+        {
+            "word": "REQUIRE"
+        },
+        {
+            "word": "RESTRICT"
+        },
+        {
+            "word": "REVOKE"
+        },
+        {
+            "word": "RIGHT"
+        },
+        {
+            "word": "RLIKE"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "SHOW"
+        },
+        {
+            "word": "SMALLINT"
+        },
+        {
+            "word": "SONAME"
+        },
+        {
+            "word": "SQL_BIG_RESULT"
+        },
+        {
+            "word": "SQL_CALC_FOUND_ROWS"
+        },
+        {
+            "word": "SQL_SMALL_RESULT"
+        },
+        {
+            "word": "SSL"
+        },
+        {
+            "word": "STARTING"
+        },
+        {
+            "word": "STRAIGHT_JOIN"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "TABLES"
+        },
+        {
+            "word": "TERMINATED"
+        },
+        {
+            "word": "THEN"
+        },
+        {
+            "word": "TINYBLOB"
+        },
+        {
+            "word": "TINYINT"
+        },
+        {
+            "word": "TINYTEXT"
+        },
+        {
+            "word": "TO"
+        },
+        {
+            "word": "TRAILING"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UNLOCK"
+        },
+        {
+            "word": "UNSIGNED"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "USAGE"
+        },
+        {
+            "word": "USE"
+        },
+        {
+            "word": "USING"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "VARBINARY"
+        },
+        {
+            "word": "VARCHAR"
+        },
+        {
+            "word": "VARYING"
+        },
+        {
+            "word": "WHEN"
+        },
+        {
+            "word": "WHERE"
+        },
+        {
+            "word": "WITH"
+        },
+        {
+            "word": "WRITE"
+        },
+        {
+            "word": "XOR"
+        },
+        {
+            "word": "YEAR_MONTH"
+        },
+        {
+            "word": "ZEROFILL"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "platform": "PHP",
+    "version": "5.3",
+    "words": [
+        {
+            "word": "__CLASS__"
+        },
+        {
+            "word": "__DIR__"
+        },
+        {
+            "word": "__FILE__"
+        },
+        {
+            "word": "__FUNCTION__"
+        },
+        {
+            "word": "__METHOD__"
+        },
+        {
+            "word": "__NAMESPACE__"
+        },
+        {
+            "word": "abstract"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "array"
+        },
+        {
+            "word": "as"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "clone"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "declare"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "die"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "echo"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "elseif"
+        },
+        {
+            "word": "empty"
+        },
+        {
+            "word": "enddeclare"
+        },
+        {
+            "word": "endfor"
+        },
+        {
+            "word": "endforeach"
+        },
+        {
+            "word": "endif"
+        },
+        {
+            "word": "endswitch"
+        },
+        {
+            "word": "endwhile"
+        },
+        {
+            "word": "eval"
+        },
+        {
+            "word": "exit"
+        },
+        {
+            "word": "extends"
+        },
+        {
+            "word": "final"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "foreach"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "global"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implements"
+        },
+        {
+            "word": "include"
+        },
+        {
+            "word": "include_once"
+        },
+        {
+            "word": "instanceof"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "isset"
+        },
+        {
+            "word": "list"
+        },
+        {
+            "word": "namespace"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "print"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "require"
+        },
+        {
+            "word": "require_once"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "unset"
+        },
+        {
+            "word": "use"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "xor"
+        }
+    ]
+}

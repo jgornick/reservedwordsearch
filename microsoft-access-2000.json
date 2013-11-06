@@ -1,0 +1,621 @@
+{
+    "platform": "Microsoft Access",
+    "version": "2000",
+    "words": [
+        {
+            "word": "ADD"
+        },
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "ANY"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "ASC"
+        },
+        {
+            "word": "AUTOINCREMENT"
+        },
+        {
+            "word": "Alphanumeric"
+        },
+        {
+            "word": "Application"
+        },
+        {
+            "word": "Assistant"
+        },
+        {
+            "word": "Avg"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "BINARY"
+        },
+        {
+            "word": "BIT"
+        },
+        {
+            "word": "BOOLEAN"
+        },
+        {
+            "word": "BY"
+        },
+        {
+            "word": "BYTE"
+        },
+        {
+            "word": "CHAR"
+        },
+        {
+            "word": "CHARACTER"
+        },
+        {
+            "word": "COLUMN"
+        },
+        {
+            "word": "CONSTRAINT"
+        },
+        {
+            "word": "COUNTER"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CURRENCY"
+        },
+        {
+            "word": "CompactDatabase"
+        },
+        {
+            "word": "Container"
+        },
+        {
+            "word": "Count"
+        },
+        {
+            "word": "CreateDatabase"
+        },
+        {
+            "word": "CreateField"
+        },
+        {
+            "word": "CreateGroup"
+        },
+        {
+            "word": "CreateIndex"
+        },
+        {
+            "word": "CreateObject"
+        },
+        {
+            "word": "CreateProperty"
+        },
+        {
+            "word": "CreateRelation"
+        },
+        {
+            "word": "CreateTableDef"
+        },
+        {
+            "word": "CreateUser"
+        },
+        {
+            "word": "CreateWorkspace"
+        },
+        {
+            "word": "CurrentUser"
+        },
+        {
+            "word": "DATABASE"
+        },
+        {
+            "word": "DATE"
+        },
+        {
+            "word": "DATETIME"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DESC"
+        },
+        {
+            "word": "DISALLOW"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DISTINCTROW"
+        },
+        {
+            "word": "DOUBLE"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "Description"
+        },
+        {
+            "word": "Document"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "Echo"
+        },
+        {
+            "word": "Else"
+        },
+        {
+            "word": "End"
+        },
+        {
+            "word": "Eqv"
+        },
+        {
+            "word": "Error"
+        },
+        {
+            "word": "Exit"
+        },
+        {
+            "word": "FALSE"
+        },
+        {
+            "word": "FLOAT"
+        },
+        {
+            "word": "FLOAT4"
+        },
+        {
+            "word": "FLOAT8"
+        },
+        {
+            "word": "FOREIGN"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "FUNCTION"
+        },
+        {
+            "word": "Field"
+        },
+        {
+            "word": "Fields"
+        },
+        {
+            "word": "FillCache"
+        },
+        {
+            "word": "Form"
+        },
+        {
+            "word": "Forms"
+        },
+        {
+            "word": "Full"
+        },
+        {
+            "word": "GENERAL"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "GROUP BY"
+        },
+        {
+            "word": "GUID"
+        },
+        {
+            "word": "GetObject"
+        },
+        {
+            "word": "GetOption"
+        },
+        {
+            "word": "GotoPage"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "IEEEDOUBLE"
+        },
+        {
+            "word": "IEEESINGLE"
+        },
+        {
+            "word": "IGNORE"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INDEX"
+        },
+        {
+            "word": "INNER"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INT"
+        },
+        {
+            "word": "INTEGER"
+        },
+        {
+            "word": "INTEGER1"
+        },
+        {
+            "word": "INTEGER2"
+        },
+        {
+            "word": "INTEGER4"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "Idle"
+        },
+        {
+            "word": "If"
+        },
+        {
+            "word": "Imp"
+        },
+        {
+            "word": "Index"
+        },
+        {
+            "word": "Indexes"
+        },
+        {
+            "word": "InsertText"
+        },
+        {
+            "word": "JOIN"
+        },
+        {
+            "word": "KEY"
+        },
+        {
+            "word": "LEFT"
+        },
+        {
+            "word": "LOGICAL"
+        },
+        {
+            "word": "LOGICAL1"
+        },
+        {
+            "word": "LONG"
+        },
+        {
+            "word": "LONGBINARY"
+        },
+        {
+            "word": "LONGTEXT"
+        },
+        {
+            "word": "LastModified"
+        },
+        {
+            "word": "Level"
+        },
+        {
+            "word": "Like"
+        },
+        {
+            "word": "MEMO"
+        },
+        {
+            "word": "MONEY"
+        },
+        {
+            "word": "Macro"
+        },
+        {
+            "word": "Match"
+        },
+        {
+            "word": "Max"
+        },
+        {
+            "word": "Min"
+        },
+        {
+            "word": "Mod"
+        },
+        {
+            "word": "Module"
+        },
+        {
+            "word": "Move"
+        },
+        {
+            "word": "NAME"
+        },
+        {
+            "word": "NO"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "NUMBER"
+        },
+        {
+            "word": "NUMERIC"
+        },
+        {
+            "word": "NewPassword"
+        },
+        {
+            "word": "Not"
+        },
+        {
+            "word": "OFF"
+        },
+        {
+            "word": "OLEOBJECT"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "OPTION"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "OWNERACCESS"
+        },
+        {
+            "word": "Object"
+        },
+        {
+            "word": "OpenRecordset"
+        },
+        {
+            "word": "Orientation"
+        },
+        {
+            "word": "Outer"
+        },
+        {
+            "word": "PARAMETERS"
+        },
+        {
+            "word": "PERCENT"
+        },
+        {
+            "word": "PIVOT"
+        },
+        {
+            "word": "PRIMARY"
+        },
+        {
+            "word": "PROCEDURE"
+        },
+        {
+            "word": "Parameter"
+        },
+        {
+            "word": "Partial"
+        },
+        {
+            "word": "Property"
+        },
+        {
+            "word": "Queries"
+        },
+        {
+            "word": "Query"
+        },
+        {
+            "word": "Quit"
+        },
+        {
+            "word": "REAL"
+        },
+        {
+            "word": "REFERENCES"
+        },
+        {
+            "word": "RIGHT"
+        },
+        {
+            "word": "Recalc"
+        },
+        {
+            "word": "Recordset"
+        },
+        {
+            "word": "Refresh"
+        },
+        {
+            "word": "RefreshLink"
+        },
+        {
+            "word": "RegisterDatabase"
+        },
+        {
+            "word": "Relation"
+        },
+        {
+            "word": "Repaint"
+        },
+        {
+            "word": "RepairDatabase"
+        },
+        {
+            "word": "Report"
+        },
+        {
+            "word": "Reports"
+        },
+        {
+            "word": "Requery"
+        },
+        {
+            "word": "SCREEN"
+        },
+        {
+            "word": "SECTION"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "SHORT"
+        },
+        {
+            "word": "SINGLE"
+        },
+        {
+            "word": "SMALLINT"
+        },
+        {
+            "word": "SOME"
+        },
+        {
+            "word": "SQL"
+        },
+        {
+            "word": "STRING"
+        },
+        {
+            "word": "SetFocus"
+        },
+        {
+            "word": "SetOption"
+        },
+        {
+            "word": "StDev"
+        },
+        {
+            "word": "StDevP"
+        },
+        {
+            "word": "Sum"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "TEXT"
+        },
+        {
+            "word": "TIME"
+        },
+        {
+            "word": "TIMESTAMP"
+        },
+        {
+            "word": "TOP"
+        },
+        {
+            "word": "TRANSFORM"
+        },
+        {
+            "word": "TRUE"
+        },
+        {
+            "word": "TableDef"
+        },
+        {
+            "word": "TableDefs"
+        },
+        {
+            "word": "TableID"
+        },
+        {
+            "word": "Type"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "User"
+        },
+        {
+            "word": "VALUE"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "VARBINARY"
+        },
+        {
+            "word": "VARCHAR"
+        },
+        {
+            "word": "Var"
+        },
+        {
+            "word": "VarP"
+        },
+        {
+            "word": "WHERE"
+        },
+        {
+            "word": "WITH"
+        },
+        {
+            "word": "Workspace"
+        },
+        {
+            "word": "Xor"
+        },
+        {
+            "word": "YES"
+        },
+        {
+            "word": "YESNO"
+        },
+        {
+            "word": "Year"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "platform": "Oracle",
+    "version": "10.2",
+    "words": [
+        {
+            "word": "ACCESS"
+        },
+        {
+            "word": "ADD"
+        },
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "ANY"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "ASC"
+        },
+        {
+            "word": "AUDIT"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "BY"
+        },
+        {
+            "word": "CHAR"
+        },
+        {
+            "word": "CHECK"
+        },
+        {
+            "word": "CLUSTER"
+        },
+        {
+            "word": "COLUMN"
+        },
+        {
+            "word": "COMMENT"
+        },
+        {
+            "word": "COMPRESS"
+        },
+        {
+            "word": "CONNECT"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CURRENT"
+        },
+        {
+            "word": "DATE"
+        },
+        {
+            "word": "DECIMAL"
+        },
+        {
+            "word": "DEFAULT"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DESC"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "ELSE"
+        },
+        {
+            "word": "EXCLUSIVE"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "FILE"
+        },
+        {
+            "word": "FLOAT"
+        },
+        {
+            "word": "FOR"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "GRANT"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "IDENTIFIED"
+        },
+        {
+            "word": "IMMEDIATE"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INCREMENT"
+        },
+        {
+            "word": "INDEX"
+        },
+        {
+            "word": "INITIAL"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INTEGER"
+        },
+        {
+            "word": "INTERSECT"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "LEVEL"
+        },
+        {
+            "word": "LIKE"
+        },
+        {
+            "word": "LOCK"
+        },
+        {
+            "word": "LONG"
+        },
+        {
+            "word": "MAXEXTENTS"
+        },
+        {
+            "word": "MINUS"
+        },
+        {
+            "word": "MLSLABEL"
+        },
+        {
+            "word": "MODE"
+        },
+        {
+            "word": "MODIFY"
+        },
+        {
+            "word": "NOAUDIT"
+        },
+        {
+            "word": "NOCOMPRESS"
+        },
+        {
+            "word": "NOT"
+        },
+        {
+            "word": "NOWAIT"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "NUMBER"
+        },
+        {
+            "word": "OF"
+        },
+        {
+            "word": "OFFLINE"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "ONLINE"
+        },
+        {
+            "word": "OPTION"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "PCTFREE"
+        },
+        {
+            "word": "PRIOR"
+        },
+        {
+            "word": "PRIVILEGES"
+        },
+        {
+            "word": "PUBLIC"
+        },
+        {
+            "word": "RAW"
+        },
+        {
+            "word": "RENAME"
+        },
+        {
+            "word": "RESOURCE"
+        },
+        {
+            "word": "REVOKE"
+        },
+        {
+            "word": "ROW"
+        },
+        {
+            "word": "ROWID"
+        },
+        {
+            "word": "ROWNUM"
+        },
+        {
+            "word": "ROWS"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SESSION"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "SHARE"
+        },
+        {
+            "word": "SIZE"
+        },
+        {
+            "word": "SMALLINT"
+        },
+        {
+            "word": "START"
+        },
+        {
+            "word": "SUCCESSFUL"
+        },
+        {
+            "word": "SYNONYM"
+        },
+        {
+            "word": "SYSDATE"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "THEN"
+        },
+        {
+            "word": "TO"
+        },
+        {
+            "word": "TRIGGER"
+        },
+        {
+            "word": "UID"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "USER"
+        },
+        {
+            "word": "VALIDATE"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "VARCHAR"
+        },
+        {
+            "word": "VARCHAR2"
+        },
+        {
+            "word": "VIEW"
+        },
+        {
+            "word": "WHENEVER"
+        },
+        {
+            "word": "WHERE"
+        },
+        {
+            "word": "WITH"
+        }
+    ]
+}

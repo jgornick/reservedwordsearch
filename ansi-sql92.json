@@ -1,0 +1,774 @@
+{
+    "platform": "ANSI",
+    "version": "SQL-92",
+    "words": [
+        {
+            "word": "ABSOLUTE"
+        },
+        {
+            "word": "ACTION"
+        },
+        {
+            "word": "ADD"
+        },
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALLOCATE"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "ANY"
+        },
+        {
+            "word": "ARE"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "ASC"
+        },
+        {
+            "word": "ASSERTION"
+        },
+        {
+            "word": "AT"
+        },
+        {
+            "word": "AUTHORIZATION"
+        },
+        {
+            "word": "AVG"
+        },
+        {
+            "word": "BEGIN"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "BIT"
+        },
+        {
+            "word": "BIT_LENGTH"
+        },
+        {
+            "word": "BOTH"
+        },
+        {
+            "word": "BY"
+        },
+        {
+            "word": "CALL"
+        },
+        {
+            "word": "CASCADE"
+        },
+        {
+            "word": "CASCADED"
+        },
+        {
+            "word": "CASE"
+        },
+        {
+            "word": "CAST"
+        },
+        {
+            "word": "CATALOG"
+        },
+        {
+            "word": "CHAR"
+        },
+        {
+            "word": "CHARACTER"
+        },
+        {
+            "word": "CHARACTER_LENGTH"
+        },
+        {
+            "word": "CHAR_LENGTH"
+        },
+        {
+            "word": "CHECK"
+        },
+        {
+            "word": "CLOSE"
+        },
+        {
+            "word": "COALESCE"
+        },
+        {
+            "word": "COLLATE"
+        },
+        {
+            "word": "COLLATION"
+        },
+        {
+            "word": "COLUMN"
+        },
+        {
+            "word": "COMMIT"
+        },
+        {
+            "word": "CONDITION"
+        },
+        {
+            "word": "CONNECT"
+        },
+        {
+            "word": "CONNECTION"
+        },
+        {
+            "word": "CONSTRAINT"
+        },
+        {
+            "word": "CONSTRAINTS"
+        },
+        {
+            "word": "CONTAINS"
+        },
+        {
+            "word": "CONTINUE"
+        },
+        {
+            "word": "CONVERT"
+        },
+        {
+            "word": "CORRESPONDING"
+        },
+        {
+            "word": "COUNT"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CROSS"
+        },
+        {
+            "word": "CURRENT"
+        },
+        {
+            "word": "CURRENT_DATE"
+        },
+        {
+            "word": "CURRENT_PATH"
+        },
+        {
+            "word": "CURRENT_TIME"
+        },
+        {
+            "word": "CURRENT_TIMESTAMP"
+        },
+        {
+            "word": "CURRENT_USER"
+        },
+        {
+            "word": "CURSOR"
+        },
+        {
+            "word": "DATE"
+        },
+        {
+            "word": "DAY"
+        },
+        {
+            "word": "DEALLOCATE"
+        },
+        {
+            "word": "DEC"
+        },
+        {
+            "word": "DECIMAL"
+        },
+        {
+            "word": "DECLARE"
+        },
+        {
+            "word": "DEFAULT"
+        },
+        {
+            "word": "DEFERRABLE"
+        },
+        {
+            "word": "DEFERRED"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DESC"
+        },
+        {
+            "word": "DESCRIBE"
+        },
+        {
+            "word": "DESCRIPTOR"
+        },
+        {
+            "word": "DETERMINISTIC"
+        },
+        {
+            "word": "DIAGNOSTICS"
+        },
+        {
+            "word": "DISCONNECT"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DO"
+        },
+        {
+            "word": "DOMAIN"
+        },
+        {
+            "word": "DOUBLE"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "ELSE"
+        },
+        {
+            "word": "ELSEIF"
+        },
+        {
+            "word": "END"
+        },
+        {
+            "word": "END-EXEC"
+        },
+        {
+            "word": "ESCAPE"
+        },
+        {
+            "word": "EXCEPT"
+        },
+        {
+            "word": "EXCEPTION"
+        },
+        {
+            "word": "EXEC"
+        },
+        {
+            "word": "EXECUTE"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "EXIT"
+        },
+        {
+            "word": "EXTERNAL"
+        },
+        {
+            "word": "EXTRACT"
+        },
+        {
+            "word": "FALSE"
+        },
+        {
+            "word": "FETCH"
+        },
+        {
+            "word": "FIRST"
+        },
+        {
+            "word": "FLOAT"
+        },
+        {
+            "word": "FOR"
+        },
+        {
+            "word": "FOREIGN"
+        },
+        {
+            "word": "FOUND"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "FULL"
+        },
+        {
+            "word": "FUNCTION"
+        },
+        {
+            "word": "GET"
+        },
+        {
+            "word": "GLOBAL"
+        },
+        {
+            "word": "GO"
+        },
+        {
+            "word": "GOTO"
+        },
+        {
+            "word": "GRANT"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "HANDLER"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "HOUR"
+        },
+        {
+            "word": "IDENTITY"
+        },
+        {
+            "word": "IF"
+        },
+        {
+            "word": "IMMEDIATE"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INDICATOR"
+        },
+        {
+            "word": "INITIALLY"
+        },
+        {
+            "word": "INNER"
+        },
+        {
+            "word": "INOUT"
+        },
+        {
+            "word": "INPUT"
+        },
+        {
+            "word": "INSENSITIVE"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INT"
+        },
+        {
+            "word": "INTEGER"
+        },
+        {
+            "word": "INTERSECT"
+        },
+        {
+            "word": "INTERVAL"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "ISOLATION"
+        },
+        {
+            "word": "JOIN"
+        },
+        {
+            "word": "KEY"
+        },
+        {
+            "word": "LANGUAGE"
+        },
+        {
+            "word": "LAST"
+        },
+        {
+            "word": "LEADING"
+        },
+        {
+            "word": "LEAVE"
+        },
+        {
+            "word": "LEFT"
+        },
+        {
+            "word": "LEVEL"
+        },
+        {
+            "word": "LIKE"
+        },
+        {
+            "word": "LOCAL"
+        },
+        {
+            "word": "LOOP"
+        },
+        {
+            "word": "LOWER"
+        },
+        {
+            "word": "MATCH"
+        },
+        {
+            "word": "MAX"
+        },
+        {
+            "word": "MIN"
+        },
+        {
+            "word": "MINUTE"
+        },
+        {
+            "word": "MODULE"
+        },
+        {
+            "word": "MONTH"
+        },
+        {
+            "word": "NAMES"
+        },
+        {
+            "word": "NATIONAL"
+        },
+        {
+            "word": "NATURAL"
+        },
+        {
+            "word": "NCHAR"
+        },
+        {
+            "word": "NEXT"
+        },
+        {
+            "word": "NO"
+        },
+        {
+            "word": "NOT"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "NULLIF"
+        },
+        {
+            "word": "NUMERIC"
+        },
+        {
+            "word": "OCTET_LENGTH"
+        },
+        {
+            "word": "OF"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "ONLY"
+        },
+        {
+            "word": "OPEN"
+        },
+        {
+            "word": "OPTION"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "OUT"
+        },
+        {
+            "word": "OUTER"
+        },
+        {
+            "word": "OUTPUT"
+        },
+        {
+            "word": "OVERLAPS"
+        },
+        {
+            "word": "PAD"
+        },
+        {
+            "word": "PARAMETER"
+        },
+        {
+            "word": "PARTIAL"
+        },
+        {
+            "word": "PATH"
+        },
+        {
+            "word": "POSITION"
+        },
+        {
+            "word": "PRECISION"
+        },
+        {
+            "word": "PREPARE"
+        },
+        {
+            "word": "PRESERVE"
+        },
+        {
+            "word": "PRIMARY"
+        },
+        {
+            "word": "PRIOR"
+        },
+        {
+            "word": "PRIVILEGES"
+        },
+        {
+            "word": "PROCEDURE"
+        },
+        {
+            "word": "PUBLIC"
+        },
+        {
+            "word": "READ"
+        },
+        {
+            "word": "REAL"
+        },
+        {
+            "word": "REFERENCES"
+        },
+        {
+            "word": "RELATIVE"
+        },
+        {
+            "word": "REPEAT"
+        },
+        {
+            "word": "RESIGNAL"
+        },
+        {
+            "word": "RESTRICT"
+        },
+        {
+            "word": "RETURN"
+        },
+        {
+            "word": "RETURNS"
+        },
+        {
+            "word": "REVOKE"
+        },
+        {
+            "word": "RIGHT"
+        },
+        {
+            "word": "ROLLBACK"
+        },
+        {
+            "word": "ROUTINE"
+        },
+        {
+            "word": "ROWS"
+        },
+        {
+            "word": "SCHEMA"
+        },
+        {
+            "word": "SCROLL"
+        },
+        {
+            "word": "SECOND"
+        },
+        {
+            "word": "SECTION"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SESSION"
+        },
+        {
+            "word": "SESSION_USER"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "SIGNAL"
+        },
+        {
+            "word": "SIZE"
+        },
+        {
+            "word": "SMALLINT"
+        },
+        {
+            "word": "SOME"
+        },
+        {
+            "word": "SPACE"
+        },
+        {
+            "word": "SPECIFIC"
+        },
+        {
+            "word": "SQL"
+        },
+        {
+            "word": "SQLCODE"
+        },
+        {
+            "word": "SQLERROR"
+        },
+        {
+            "word": "SQLEXCEPTION"
+        },
+        {
+            "word": "SQLSTATE"
+        },
+        {
+            "word": "SQLWARNING"
+        },
+        {
+            "word": "SUBSTRING"
+        },
+        {
+            "word": "SUM"
+        },
+        {
+            "word": "SYSTEM_USER"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "TEMPORARY"
+        },
+        {
+            "word": "THEN"
+        },
+        {
+            "word": "TIME"
+        },
+        {
+            "word": "TIMESTAMP"
+        },
+        {
+            "word": "TIMEZONE_HOUR"
+        },
+        {
+            "word": "TIMEZONE_MINUTE"
+        },
+        {
+            "word": "TO"
+        },
+        {
+            "word": "TRAILING"
+        },
+        {
+            "word": "TRANSACTION"
+        },
+        {
+            "word": "TRANSLATE"
+        },
+        {
+            "word": "TRANSLATION"
+        },
+        {
+            "word": "TRIM"
+        },
+        {
+            "word": "TRUE"
+        },
+        {
+            "word": "UNDO"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UNKNOWN"
+        },
+        {
+            "word": "UNTIL"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "UPPER"
+        },
+        {
+            "word": "USAGE"
+        },
+        {
+            "word": "USER"
+        },
+        {
+            "word": "USING"
+        },
+        {
+            "word": "VALUE"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "VARCHAR"
+        },
+        {
+            "word": "VARYING"
+        },
+        {
+            "word": "VIEW"
+        },
+        {
+            "word": "WHEN"
+        },
+        {
+            "word": "WHENEVER"
+        },
+        {
+            "word": "WHERE"
+        },
+        {
+            "word": "WHILE"
+        },
+        {
+            "word": "WITH"
+        },
+        {
+            "word": "WORK"
+        },
+        {
+            "word": "WRITE"
+        },
+        {
+            "word": "YEAR"
+        },
+        {
+            "word": "ZONE"
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "platform": "Turbo Pascal",
+    "version": null,
+    "words": [
+        {
+            "word": "absolute"
+        },
+        {
+            "word": "abstract"
+        },
+        {
+            "word": "alias"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "array"
+        },
+        {
+            "word": "asm"
+        },
+        {
+            "word": "assembler"
+        },
+        {
+            "word": "begin"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "cdecl"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "constructor"
+        },
+        {
+            "word": "cppdecl"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "destructor"
+        },
+        {
+            "word": "div"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "downto"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "end"
+        },
+        {
+            "word": "export"
+        },
+        {
+            "word": "external"
+        },
+        {
+            "word": "far"
+        },
+        {
+            "word": "far16"
+        },
+        {
+            "word": "file"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "forward"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implementation"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "index"
+        },
+        {
+            "word": "inherited"
+        },
+        {
+            "word": "inline"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "label"
+        },
+        {
+            "word": "local"
+        },
+        {
+            "word": "mod"
+        },
+        {
+            "word": "name"
+        },
+        {
+            "word": "near"
+        },
+        {
+            "word": "nil"
+        },
+        {
+            "word": "nostackframe"
+        },
+        {
+            "word": "not"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "oldfpccall"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "operator"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "override"
+        },
+        {
+            "word": "packed"
+        },
+        {
+            "word": "pascal"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "procedure"
+        },
+        {
+            "word": "program"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "published"
+        },
+        {
+            "word": "read"
+        },
+        {
+            "word": "record"
+        },
+        {
+            "word": "register"
+        },
+        {
+            "word": "reintroduce"
+        },
+        {
+            "word": "repeat"
+        },
+        {
+            "word": "safecall"
+        },
+        {
+            "word": "self"
+        },
+        {
+            "word": "set"
+        },
+        {
+            "word": "shl"
+        },
+        {
+            "word": "shr"
+        },
+        {
+            "word": "softfloat"
+        },
+        {
+            "word": "stdcall"
+        },
+        {
+            "word": "string"
+        },
+        {
+            "word": "then"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "type"
+        },
+        {
+            "word": "unit"
+        },
+        {
+            "word": "until"
+        },
+        {
+            "word": "uses"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "virtual"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "with"
+        },
+        {
+            "word": "write"
+        },
+        {
+            "word": "xor"
+        }
+    ]
+}

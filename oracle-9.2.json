@@ -1,0 +1,585 @@
+{
+    "platform": "Oracle",
+    "version": "9.2",
+    "words": [
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "ANY"
+        },
+        {
+            "word": "ARRAY"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "ASC"
+        },
+        {
+            "word": "AT"
+        },
+        {
+            "word": "AUTHID"
+        },
+        {
+            "word": "AVG"
+        },
+        {
+            "word": "BEGIN"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "BINARY_INTEGER"
+        },
+        {
+            "word": "BODY"
+        },
+        {
+            "word": "BOOLEAN"
+        },
+        {
+            "word": "BULK"
+        },
+        {
+            "word": "BY"
+        },
+        {
+            "word": "CASE"
+        },
+        {
+            "word": "CHAR"
+        },
+        {
+            "word": "CHAR_BASE"
+        },
+        {
+            "word": "CHECK"
+        },
+        {
+            "word": "CLOSE"
+        },
+        {
+            "word": "CLUSTER"
+        },
+        {
+            "word": "COALESCE"
+        },
+        {
+            "word": "COLLECT"
+        },
+        {
+            "word": "COMMENT"
+        },
+        {
+            "word": "COMMIT"
+        },
+        {
+            "word": "COMPRESS"
+        },
+        {
+            "word": "CONNECT"
+        },
+        {
+            "word": "CONSTANT"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CURRENT"
+        },
+        {
+            "word": "CURRVAL"
+        },
+        {
+            "word": "CURSOR"
+        },
+        {
+            "word": "DATE"
+        },
+        {
+            "word": "DAY"
+        },
+        {
+            "word": "DECIMAL"
+        },
+        {
+            "word": "DECLARE"
+        },
+        {
+            "word": "DEFAULT"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DESC"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DO"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "ELSE"
+        },
+        {
+            "word": "ELSIF"
+        },
+        {
+            "word": "END"
+        },
+        {
+            "word": "EXCEPTION"
+        },
+        {
+            "word": "EXCLUSIVE"
+        },
+        {
+            "word": "EXECUTE"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "EXIT"
+        },
+        {
+            "word": "EXTENDS"
+        },
+        {
+            "word": "EXTRACT"
+        },
+        {
+            "word": "FALSE"
+        },
+        {
+            "word": "FETCH"
+        },
+        {
+            "word": "FLOAT"
+        },
+        {
+            "word": "FOR"
+        },
+        {
+            "word": "FORALL"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "FUNCTION"
+        },
+        {
+            "word": "GOTO"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "HEAP"
+        },
+        {
+            "word": "HOUR"
+        },
+        {
+            "word": "IF"
+        },
+        {
+            "word": "IMMEDIATE"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INDEX"
+        },
+        {
+            "word": "INDICATOR"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INTEGER"
+        },
+        {
+            "word": "INTERFACE"
+        },
+        {
+            "word": "INTERSECT"
+        },
+        {
+            "word": "INTERVAL"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "ISOLATION"
+        },
+        {
+            "word": "JAVA"
+        },
+        {
+            "word": "LEVEL"
+        },
+        {
+            "word": "LIKE"
+        },
+        {
+            "word": "LIMITED"
+        },
+        {
+            "word": "LOCK"
+        },
+        {
+            "word": "LONG"
+        },
+        {
+            "word": "LOOP"
+        },
+        {
+            "word": "MAX"
+        },
+        {
+            "word": "MIN"
+        },
+        {
+            "word": "MINUS"
+        },
+        {
+            "word": "MINUTE"
+        },
+        {
+            "word": "MLSLABEL"
+        },
+        {
+            "word": "MOD"
+        },
+        {
+            "word": "MODE"
+        },
+        {
+            "word": "MONTH"
+        },
+        {
+            "word": "NATURAL"
+        },
+        {
+            "word": "NATURALN"
+        },
+        {
+            "word": "NEW"
+        },
+        {
+            "word": "NEXTVAL"
+        },
+        {
+            "word": "NOCOPY"
+        },
+        {
+            "word": "NOT"
+        },
+        {
+            "word": "NOWAIT"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "NULLIF"
+        },
+        {
+            "word": "NUMBER"
+        },
+        {
+            "word": "NUMBER_BASE"
+        },
+        {
+            "word": "OCIROWID"
+        },
+        {
+            "word": "OF"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "OPAQUE"
+        },
+        {
+            "word": "OPEN"
+        },
+        {
+            "word": "OPERATOR"
+        },
+        {
+            "word": "OPTION"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "ORGANIZATION"
+        },
+        {
+            "word": "OTHERS"
+        },
+        {
+            "word": "OUT"
+        },
+        {
+            "word": "PACKAGE"
+        },
+        {
+            "word": "PARTITION"
+        },
+        {
+            "word": "PCTFREE"
+        },
+        {
+            "word": "PLS_INTEGER"
+        },
+        {
+            "word": "POSITIVE"
+        },
+        {
+            "word": "POSITIVEN"
+        },
+        {
+            "word": "PRAGMA"
+        },
+        {
+            "word": "PRIOR"
+        },
+        {
+            "word": "PRIVATE"
+        },
+        {
+            "word": "PROCEDURE"
+        },
+        {
+            "word": "PUBLIC"
+        },
+        {
+            "word": "RAISE"
+        },
+        {
+            "word": "RANGE"
+        },
+        {
+            "word": "RAW"
+        },
+        {
+            "word": "REAL"
+        },
+        {
+            "word": "RECORD"
+        },
+        {
+            "word": "REF"
+        },
+        {
+            "word": "RELEASE"
+        },
+        {
+            "word": "RETURN"
+        },
+        {
+            "word": "REVERSE"
+        },
+        {
+            "word": "ROLLBACK"
+        },
+        {
+            "word": "ROW"
+        },
+        {
+            "word": "ROWID"
+        },
+        {
+            "word": "ROWNUM"
+        },
+        {
+            "word": "ROWTYPE"
+        },
+        {
+            "word": "SAVEPOINT"
+        },
+        {
+            "word": "SECOND"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SEPARATE"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "SHARE"
+        },
+        {
+            "word": "SMALLINT"
+        },
+        {
+            "word": "SPACE"
+        },
+        {
+            "word": "SQL"
+        },
+        {
+            "word": "SQLCODE"
+        },
+        {
+            "word": "SQLERRM"
+        },
+        {
+            "word": "START"
+        },
+        {
+            "word": "STDDEV"
+        },
+        {
+            "word": "SUBTYPE"
+        },
+        {
+            "word": "SUCCESSFUL"
+        },
+        {
+            "word": "SUM"
+        },
+        {
+            "word": "SYNONYM"
+        },
+        {
+            "word": "SYSDATE"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "THEN"
+        },
+        {
+            "word": "TIME"
+        },
+        {
+            "word": "TIMESTAMP"
+        },
+        {
+            "word": "TIMEZONE_ABBR"
+        },
+        {
+            "word": "TIMEZONE_HOUR"
+        },
+        {
+            "word": "TIMEZONE_MINUTE"
+        },
+        {
+            "word": "TIMEZONE_REGION"
+        },
+        {
+            "word": "TO"
+        },
+        {
+            "word": "TRIGGER"
+        },
+        {
+            "word": "TRUE"
+        },
+        {
+            "word": "TYPE"
+        },
+        {
+            "word": "UID"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "USE"
+        },
+        {
+            "word": "USER"
+        },
+        {
+            "word": "VALIDATE"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "VARCHAR"
+        },
+        {
+            "word": "VARCHAR2"
+        },
+        {
+            "word": "VARIANCE"
+        },
+        {
+            "word": "VIEW"
+        },
+        {
+            "word": "WHEN"
+        },
+        {
+            "word": "WHENEVER"
+        },
+        {
+            "word": "WHERE"
+        },
+        {
+            "word": "WHILE"
+        },
+        {
+            "word": "WITH"
+        },
+        {
+            "word": "WORK"
+        },
+        {
+            "word": "WRITE"
+        },
+        {
+            "word": "YEAR"
+        },
+        {
+            "word": "ZONE"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "platform": "PHP",
+    "version": "4",
+    "words": [
+        {
+            "word": "__CLASS__"
+        },
+        {
+            "word": "__FILE__"
+        },
+        {
+            "word": "__FUNCTION__"
+        },
+        {
+            "word": "__METHOD__"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "array"
+        },
+        {
+            "word": "as"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "cfunction"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "declare"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "die"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "echo"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "elseif"
+        },
+        {
+            "word": "empty"
+        },
+        {
+            "word": "enddeclare"
+        },
+        {
+            "word": "endfor"
+        },
+        {
+            "word": "endforeach"
+        },
+        {
+            "word": "endif"
+        },
+        {
+            "word": "endswitch"
+        },
+        {
+            "word": "endwhile"
+        },
+        {
+            "word": "eval"
+        },
+        {
+            "word": "exit"
+        },
+        {
+            "word": "extends"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "foreach"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "global"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "include"
+        },
+        {
+            "word": "include_once"
+        },
+        {
+            "word": "isset"
+        },
+        {
+            "word": "list"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "old_function"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "print"
+        },
+        {
+            "word": "require"
+        },
+        {
+            "word": "require_once"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "unset"
+        },
+        {
+            "word": "use"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "xor"
+        }
+    ]
+}

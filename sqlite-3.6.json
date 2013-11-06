@@ -1,0 +1,198 @@
+{
+    "platform": "SQLite",
+    "version": "3.6",
+    "words": [
+        {
+            "word": "ADD"
+        },
+        {
+            "word": "ALL"
+        },
+        {
+            "word": "ALTER"
+        },
+        {
+            "word": "AND"
+        },
+        {
+            "word": "AS"
+        },
+        {
+            "word": "AUTOINCREMENT"
+        },
+        {
+            "word": "BETWEEN"
+        },
+        {
+            "word": "CASE"
+        },
+        {
+            "word": "CHECK"
+        },
+        {
+            "word": "COLLATE"
+        },
+        {
+            "word": "COMMIT"
+        },
+        {
+            "word": "CONSTRAINT"
+        },
+        {
+            "word": "CREATE"
+        },
+        {
+            "word": "CROSS"
+        },
+        {
+            "word": "DEFAULT"
+        },
+        {
+            "word": "DEFERRABLE"
+        },
+        {
+            "word": "DELETE"
+        },
+        {
+            "word": "DISTINCT"
+        },
+        {
+            "word": "DROP"
+        },
+        {
+            "word": "ELSE"
+        },
+        {
+            "word": "ESCAPE"
+        },
+        {
+            "word": "EXCEPT"
+        },
+        {
+            "word": "EXISTS"
+        },
+        {
+            "word": "FOREIGN"
+        },
+        {
+            "word": "FROM"
+        },
+        {
+            "word": "FULL"
+        },
+        {
+            "word": "GROUP"
+        },
+        {
+            "word": "HAVING"
+        },
+        {
+            "word": "IN"
+        },
+        {
+            "word": "INDEX"
+        },
+        {
+            "word": "INNER"
+        },
+        {
+            "word": "INSERT"
+        },
+        {
+            "word": "INTERSECT"
+        },
+        {
+            "word": "INTO"
+        },
+        {
+            "word": "IS"
+        },
+        {
+            "word": "ISNULL"
+        },
+        {
+            "word": "JOIN"
+        },
+        {
+            "word": "LEFT"
+        },
+        {
+            "word": "LIMIT"
+        },
+        {
+            "word": "NATURAL"
+        },
+        {
+            "word": "NOT"
+        },
+        {
+            "word": "NOTNULL"
+        },
+        {
+            "word": "NULL"
+        },
+        {
+            "word": "ON"
+        },
+        {
+            "word": "OR"
+        },
+        {
+            "word": "ORDER"
+        },
+        {
+            "word": "OUTER"
+        },
+        {
+            "word": "PRIMARY"
+        },
+        {
+            "word": "REFERENCES"
+        },
+        {
+            "word": "RIGHT"
+        },
+        {
+            "word": "ROLLBACK"
+        },
+        {
+            "word": "SELECT"
+        },
+        {
+            "word": "SET"
+        },
+        {
+            "word": "TABLE"
+        },
+        {
+            "word": "THEN"
+        },
+        {
+            "word": "TO"
+        },
+        {
+            "word": "TRANSACTION"
+        },
+        {
+            "word": "UNION"
+        },
+        {
+            "word": "UNIQUE"
+        },
+        {
+            "word": "UPDATE"
+        },
+        {
+            "word": "USING"
+        },
+        {
+            "word": "VALUES"
+        },
+        {
+            "word": "WHEN"
+        },
+        {
+            "word": "WHERE"
+        }
+    ]
+}

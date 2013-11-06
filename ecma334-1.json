@@ -1,0 +1,237 @@
+{
+    "platform": "ECMA-334",
+    "version": "1",
+    "words": [
+        {
+            "word": "abstract"
+        },
+        {
+            "word": "as"
+        },
+        {
+            "word": "base"
+        },
+        {
+            "word": "bool"
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "byte"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "char"
+        },
+        {
+            "word": "checked"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "decimal"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delegate"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "double"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum"
+        },
+        {
+            "word": "event"
+        },
+        {
+            "word": "explicit"
+        },
+        {
+            "word": "extern"
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "fixed"
+        },
+        {
+            "word": "float"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "foreach"
+        },
+        {
+            "word": "goto"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implicit"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "int"
+        },
+        {
+            "word": "interface"
+        },
+        {
+            "word": "internal"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "lock"
+        },
+        {
+            "word": "long"
+        },
+        {
+            "word": "namespace"
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "null"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "operator"
+        },
+        {
+            "word": "out"
+        },
+        {
+            "word": "override"
+        },
+        {
+            "word": "params"
+        },
+        {
+            "word": "private"
+        },
+        {
+            "word": "protected"
+        },
+        {
+            "word": "public"
+        },
+        {
+            "word": "readonly"
+        },
+        {
+            "word": "ref"
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "sbyte"
+        },
+        {
+            "word": "sealed"
+        },
+        {
+            "word": "short"
+        },
+        {
+            "word": "sizeof"
+        },
+        {
+            "word": "stackalloc"
+        },
+        {
+            "word": "static"
+        },
+        {
+            "word": "string"
+        },
+        {
+            "word": "struct"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "true"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typeof"
+        },
+        {
+            "word": "uint"
+        },
+        {
+            "word": "ulong"
+        },
+        {
+            "word": "unchecked"
+        },
+        {
+            "word": "unsafe"
+        },
+        {
+            "word": "ushort"
+        },
+        {
+            "word": "using"
+        },
+        {
+            "word": "virtual"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "volatile"
+        },
+        {
+            "word": "while"
+        }
+    ]
+}
