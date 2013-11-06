@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 1.9.3
+branches:
+  only:
+  - master
+  - site
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install -y python-software-properties python g++ make
+  - sudo add-apt-repository -y ppa:chris-lea/node.js
+  - sudo apt-get update
+  - sudo apt-get install nodejs
+script: "./build.sh"
+env:
+  global:
+  - secure: eBsPr3LHaQIv7odvp2q1q9jVekqxZkAas0kafKyscWbPyRjgMkdr3snshyruvPKtTZyrhxUI5wCBZpJIaR2YO2xY8AjpO4FJ85z4HfZUuq1UnEkIQDytUpSUJ3rVL6SlMlf81hGNV1OHqWMEKen76jQXB5N7c/Sp6zP1rU2kmAE=
