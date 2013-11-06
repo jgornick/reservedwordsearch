@@ -15,6 +15,18 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_REPO_SLUG" == "jgornick/r
 
   git status
 
+  git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/master
+
+  ls /tmp/rws/master
+
+  git clone --depth=1 --branch=site https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/site
+
+  ls /tmp/rws/site
+
+  git clone --depth=1 --branch=site https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/gh-pages
+
+  ls /tmp/rws/gh-pages
+
   # git remote rename origin readonly
   # git remote add origin https://$GH_TOKEN@github.com/jgornick/reservedwordsearch
   # git fetch origin
