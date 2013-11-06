@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Reserved Word Search
 markdown: redcarpet
 pygments: true
 exclude: ['Rakefile', 'Gemfile*', '*sublime*', '.travis.yml', '.gitignore', 'build.sh', 'vendor']
