@@ -1,6 +1,6 @@
 {
     "platform": "C++",
-    "version": null,
+    "version": "*",
     "words": [
         {
             "word": "and"

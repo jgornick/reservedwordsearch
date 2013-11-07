@@ -1,6 +1,6 @@
 {
     "platform": "Delphi",
-    "version": null,
+    "version": "*",
     "words": [
         {
             "word": "absolute"

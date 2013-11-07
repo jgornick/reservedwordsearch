@@ -1,6 +1,6 @@
 {
     "platform": "Turbo Pascal",
-    "version": null,
+    "version": "*",
     "words": [
         {
             "word": "absolute"

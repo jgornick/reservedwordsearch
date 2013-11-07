@@ -1,6 +1,6 @@
 {
     "platform": "Free Pascal",
-    "version": null,
+    "version": "*",
     "words": [
         {
             "word": "absolute"
