@@ -13,29 +13,16 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git config --global user.email "joe@joegornick.com"
   git config --global user.name "Joe Gornick"
 
-  git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/master
   git clone --depth=1 --branch=site https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/site
-  git clone --depth=1 --branch=gh-pages https://$GH_TOKEN@github.com/jgornick/reservedwordsearch /tmp/rws/gh-pages
+
+  node ./scripts/generate-words-json.js -w ./words -d /tmp/rws/site/rws/
 
   cd /tmp/rws/site
 
-  npm install
-  node generate-client-schema.js --source /tmp/rws/master --destination /tmp/rws/site/db/rws.json
-
-  # git remote rename origin readonly
-  # git remote add origin https://$GH_TOKEN@github.com/jgornick/reservedwordsearch
-  # git fetch origin
-  # git checkout site
-
-  # bundle exec jekyll build || error_exit "Error generating site";
-
-  # git checkout gh-pages || error_exit "Error checking out gh-pages branch";
-  # git clean -fd
-  # cp -Rf _site/* . || error_exit "Error copying _site contents to gh-pages";
-  # git add .
-  # git add -u
-  # git commit -m "Regenerate from jgornick/reservedwordsearch@${TRAVIS_COMMIT}"
-  # git push origin gh-pages
+  git add .
+  git add -u
+  git commit -m "Regenerate from jgornick/reservedwordsearch@${TRAVIS_COMMIT}"
+  git push origin site
 fi
 
 end=$(date +%s)

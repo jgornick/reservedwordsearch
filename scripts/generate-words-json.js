@@ -8,7 +8,7 @@ var
     path = require('path'),
     argv = require('optimist').argv,
     wordsPath = argv.w,
-    destination = argv.d;
+    destinationPath = argv.d;
 
 if (!fs.existsSync(wordsPath)) {
     console.log('Words path does not exist.');
@@ -47,4 +47,8 @@ for (var i = 0, len = files.length; i < len; i++) {
     }
 }
 
-fs.writeFileSync(destination + '/words.json', JSON.stringify(words, null, ''));
+if (!fs.existsSync(destinationPath)) {
+    fs.mkdirSync(destinationPath);
+}
+
+fs.writeFileSync(destinationPath + '/words.json', JSON.stringify(words, null, ''));
