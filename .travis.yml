@@ -3,14 +3,7 @@ rvm:
 - 1.9.3
 branches:
   only:
-  - master
   - site
-before_install:
-  - sudo apt-get update
-  - sudo apt-get install -y python-software-properties python g++ make
-  - sudo add-apt-repository -y ppa:chris-lea/node.js
-  - sudo apt-get update
-  - sudo apt-get install nodejs
 script: "./build.sh"
 env:
   global:
