@@ -4,13 +4,26 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Reserved Word Search</title>
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/rws.css">
     </head>
-    <body class="row">
-        <div class="col-xs-12 text-center">
-            <h1>Reserved Word Search</h1>
-            <h3>Coming back soon!</h3>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div class="form-group">
+                        <h1>Reserved Word Search</h1>
+                        <input type="text" class="form-control input-lg search-input" placeholder="Search..." />
+                    </div>
+                    <p class="alert alert-info search-message">To begin, start typing in the box above.</p>
+                    <table class="table table-condensed table-bordered text-left words-table">
+                    </table>
+                </div>
+            </div>
         </div>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+        <script src="js/rws.js"></script>
     </body>
 </html>
