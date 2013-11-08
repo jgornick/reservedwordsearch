@@ -4,6 +4,8 @@ Documentation coming soon!
 
 ## Overview
 
+## Branches
+
 ## Folder Structure
 
 ## Contributing Guidelines
