@@ -7,6 +7,7 @@ var
     fs = require('fs'),
     path = require('path'),
     argv = require('optimist').argv,
+    _ = require('lodash'),
     wordsPath = argv.w,
     destinationPath = argv.d;
 
@@ -47,8 +48,14 @@ for (var i = 0, len = files.length; i < len; i++) {
     }
 }
 
+sortedWords = {};
+wordKeys = Object.keys(words).sort();
+for (var i = 0, len = wordKeys.length; i < len; i++) {
+    sortedWords[wordKeys[i]] = words[wordKeys[i]];
+}
+
 if (!fs.existsSync(destinationPath)) {
     fs.mkdirSync(destinationPath);
 }
 
-fs.writeFileSync(destinationPath + '/words.json', JSON.stringify(words, null, ''));
+fs.writeFileSync(destinationPath + '/words.json', JSON.stringify(sortedWords, null, ''));
