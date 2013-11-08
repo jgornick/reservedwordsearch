@@ -1,7 +1,5 @@
 # Reserved Word Search
 
-==================
-
 Documentation coming soon!
 
 ## Overview
