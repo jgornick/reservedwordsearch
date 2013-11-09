@@ -50,9 +50,11 @@
 
         switch (value.length) {
             case 0:
+                $('.words-table').empty();
                 return showMessage('To begin, start typing in the box above.');
             case 1:
             case 2:
+                $('.words-table').empty();
                 return showMessage('You\'re almost there, two or more characters are required.');
         }
 
@@ -108,14 +110,10 @@
         showWords($(e.target).val());
     }
 
-    function convertWordsToSearchable(words) {
-        return $.map(words, function(value, key) {
-            return { word: key, platforms: value };
-        });
-    }
-
     $(document).ready(function() {
         $.getJSON('/rws/words.json', function(data) {
+            // Convert the words.json into a format that we can use with the
+            // sifter library for better searching.
             words = $.map(data, function(value, key) {
                 return { word: key, platforms: value };
             });
