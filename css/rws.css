@@ -6,3 +6,7 @@
 .table-bordered > thead > tr >td {
     border-bottom: none;
 }
+
+.social-icons-container {
+    padding-top: 20px;
+}
