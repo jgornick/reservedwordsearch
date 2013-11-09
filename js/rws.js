@@ -1,6 +1,7 @@
 (function() {
     var
-        words;
+        words,
+        sifter;
 
     /**
      * Shows a message in the status message container.
@@ -24,12 +25,17 @@
         }
 
         var
-            re = new RegExp(filter, 'i'),
-            filteredWords;
+            filteredWords = [],
+            searchResult;
 
-        filteredWords = $.map(words, function(value, key) {
-            return re.test(key) ? { word: key, platforms: value } : null;
+        searchResult = sifter.search(filter, {
+            fields: ['word'],
+            sort: [{field: 'word', direction: 'asc' }]
         });
+
+        for (var i = 0, len = searchResult.items.length; i < len; i++) {
+            filteredWords.push(words[searchResult.items[i].id]);
+        }
 
         return filteredWords;
     }
@@ -102,9 +108,19 @@
         showWords($(e.target).val());
     }
 
+    function convertWordsToSearchable(words) {
+        return $.map(words, function(value, key) {
+            return { word: key, platforms: value };
+        });
+    }
+
     $(document).ready(function() {
         $.getJSON('/rws/words.json', function(data) {
-            words = data;
+            words = $.map(data, function(value, key) {
+                return { word: key, platforms: value };
+            });
+
+            sifter = new Sifter(words);
 
             var
                 query = window.location.search.substr(1).split('='),
