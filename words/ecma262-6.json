@@ -1,0 +1,196 @@
+{
+    "platform": "ECMA-262",
+    "version": "6 RC1",
+    "sources": [
+        "http://wiki.ecmascript.org/lib/exe/fetch.php?id=harmony%3Aspecification_drafts&cache=cache&media=harmony:ecma-262_edition_6_02-20-15-releasecandidate1.pdf",
+        "http://people.mozilla.org/~jorendorff/es6-draft.html#sec-reserved-words",
+        "https://mathiasbynens.be/notes/reserved-keywords#ecmascript-6"
+    ],
+    "names": [
+        "ECMAScript 6",
+        "ES6",
+        "ES6 Harmony"
+    ],
+    "words": [
+        {
+            "word": "arguments"
+        },
+        {
+            "word": "await",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "break"
+        },
+        {
+            "word": "case"
+        },
+        {
+            "word": "catch"
+        },
+        {
+            "word": "class"
+        },
+        {
+            "word": "const"
+        },
+        {
+            "word": "continue"
+        },
+        {
+            "word": "debugger"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "delete"
+        },
+        {
+            "word": "do"
+        },
+        {
+            "word": "else"
+        },
+        {
+            "word": "enum",
+            "tags": [
+                "future"
+            ]
+        },
+        {
+            "word": "eval"
+        },
+        {
+            "word": "export"
+        },
+        {
+            "word": "extends"
+        },
+        {
+            "word": "false"
+        },
+        {
+            "word": "finally"
+        },
+        {
+            "word": "for"
+        },
+        {
+            "word": "function"
+        },
+        {
+            "word": "if"
+        },
+        {
+            "word": "implements",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "import"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "instanceof"
+        },
+        {
+            "word": "interface",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "let",
+            "tags": [
+                "strict"
+            ]
+        },
+        {
+            "word": "new"
+        },
+        {
+            "word": "null"
+        },
+        {
+            "word": "package",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "private",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "protected",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "public",
+            "tags": [
+                "future",
+                "strict"
+            ]
+        },
+        {
+            "word": "return"
+        },
+        {
+            "word": "static",
+            "tags": [
+                "strict"
+            ]
+        },
+        {
+            "word": "super"
+        },
+        {
+            "word": "switch"
+        },
+        {
+            "word": "this"
+        },
+        {
+            "word": "throw"
+        },
+        {
+            "word": "true"
+        },
+        {
+            "word": "try"
+        },
+        {
+            "word": "typeof"
+        },
+        {
+            "word": "var"
+        },
+        {
+            "word": "void"
+        },
+        {
+            "word": "while"
+        },
+        {
+            "word": "with"
+        },
+        {
+            "word": "yield"
+        }
+    ]
+}
