@@ -1,0 +1,303 @@
+{
+  "platform": "PostgreSQL",
+  "version": "9.2",
+  "words": [
+    {
+      "word": "ALL"
+    },
+    {
+      "word": "ANALYSE"
+    },
+    {
+      "word": "ANALYZE"
+    },
+    {
+      "word": "AND"
+    },
+    {
+      "word": "ANY"
+    },
+    {
+      "word": "ARRAY"
+    },
+    {
+      "word": "AS"
+    },
+    {
+      "word": "ASC"
+    },
+    {
+      "word": "ASYMMETRIC"
+    },
+    {
+      "word": "AUTHORIZATION"
+    },
+    {
+      "word": "BINARY"
+    },
+    {
+      "word": "BOTH"
+    },
+    {
+      "word": "CASE"
+    },
+    {
+      "word": "CAST"
+    },
+    {
+      "word": "CHECK"
+    },
+    {
+      "word": "COLLATE"
+    },
+    {
+      "word": "COLLATION"
+    },
+    {
+      "word": "COLUMN"
+    },
+    {
+      "word": "CONCURRENTLY"
+    },
+    {
+      "word": "CONSTRAINT"
+    },
+    {
+      "word": "CREATE"
+    },
+    {
+      "word": "CROSS"
+    },
+    {
+      "word": "CURRENT_CATALOG"
+    },
+    {
+      "word": "CURRENT_DATE"
+    },
+    {
+      "word": "CURRENT_ROLE"
+    },
+    {
+      "word": "CURRENT_SCHEMA"
+    },
+    {
+      "word": "CURRENT_TIME"
+    },
+    {
+      "word": "CURRENT_TIMESTAMP"
+    },
+    {
+      "word": "CURRENT_USER"
+    },
+    {
+      "word": "DEFAULT"
+    },
+    {
+      "word": "DEFERRABLE"
+    },
+    {
+      "word": "DESC"
+    },
+    {
+      "word": "DISTINCT"
+    },
+    {
+      "word": "DO"
+    },
+    {
+      "word": "ELSE"
+    },
+    {
+      "word": "END"
+    },
+    {
+      "word": "EXCEPT"
+    },
+    {
+      "word": "FALSE"
+    },
+    {
+      "word": "FETCH"
+    },
+    {
+      "word": "FOR"
+    },
+    {
+      "word": "FOREIGN"
+    },
+    {
+      "word": "FREEZE"
+    },
+    {
+      "word": "FROM"
+    },
+    {
+      "word": "FULL"
+    },
+    {
+      "word": "GRANT"
+    },
+    {
+      "word": "GROUP"
+    },
+    {
+      "word": "HAVING"
+    },
+    {
+      "word": "ILIKE"
+    },
+    {
+      "word": "IN"
+    },
+    {
+      "word": "INITIALLY"
+    },
+    {
+      "word": "INNER"
+    },
+    {
+      "word": "INTERSECT"
+    },
+    {
+      "word": "INTO"
+    },
+    {
+      "word": "IS"
+    },
+    {
+      "word": "ISNULL"
+    },
+    {
+      "word": "JOIN"
+    },
+    {
+      "word": "LEADING"
+    },
+    {
+      "word": "LEFT"
+    },
+    {
+      "word": "LIKE"
+    },
+    {
+      "word": "LIMIT"
+    },
+    {
+      "word": "LOCALTIME"
+    },
+    {
+      "word": "LOCALTIMESTAMP"
+    },
+    {
+      "word": "NATURAL"
+    },
+    {
+      "word": "NEW"
+    },
+    {
+      "word": "NOT"
+    },
+    {
+      "word": "NOTNULL"
+    },
+    {
+      "word": "NULL"
+    },
+    {
+      "word": "OFFSET"
+    },
+    {
+      "word": "OLD"
+    },
+    {
+      "word": "ON"
+    },
+    {
+      "word": "ONLY"
+    },
+    {
+      "word": "OR"
+    },
+    {
+      "word": "ORDER"
+    },
+    {
+      "word": "OUTER"
+    },
+    {
+      "word": "OVERLAPS"
+    },
+    {
+      "word": "PLACING"
+    },
+    {
+      "word": "PRIMARY"
+    },
+    {
+      "word": "REFERENCES"
+    },
+    {
+      "word": "RETURNING"
+    },
+    {
+      "word": "RIGHT"
+    },
+    {
+      "word": "SELECT"
+    },
+    {
+      "word": "SESSION_USER"
+    },
+    {
+      "word": "SIMILAR"
+    },
+    {
+      "word": "SOME"
+    },
+    {
+      "word": "SYMMETRIC"
+    },
+    {
+      "word": "TABLE"
+    },
+    {
+      "word": "THEN"
+    },
+    {
+      "word": "TO"
+    },
+    {
+      "word": "TRAILING"
+    },
+    {
+      "word": "TRUE"
+    },
+    {
+      "word": "UNION"
+    },
+    {
+      "word": "UNIQUE"
+    },
+    {
+      "word": "USER"
+    },
+    {
+      "word": "USING"
+    },
+    {
+      "word": "VARIADIC"
+    },
+    {
+      "word": "VERBOSE"
+    },
+    {
+      "word": "WHEN"
+    },
+    {
+      "word": "WHERE"
+    },
+    {
+      "word": "WITH"
+    }
+  ]
+}
